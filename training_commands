@@ -1,0 +1,5 @@
+[rsantana@localhost swc-cern-example]$ git config --global user.name 1renatosantana
+[rsantana@localhost swc-cern-example]$ git config --global user.email 1renatosantana@gmail.com
+[rsantana@localhost swc-cern-example]$ git config --global core.editor "vi"
+[rsantana@localhost swc-cern-example]$ git config --global color.ui auto
+[rsantana@localhost swc-cern-example]$ git status
