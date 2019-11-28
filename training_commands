@@ -1,0 +1,27 @@
+[rsantana@localhost swc-cern-example]$ git config --global user.name 1renatosantana
+[rsantana@localhost swc-cern-example]$ git config --global user.email 1renatosantana@gmail.com
+[rsantana@localhost swc-cern-example]$ git config --global core.editor "vi"
+[rsantana@localhost swc-cern-example]$ git config --global color.ui auto
+[rsantana@localhost swc-cern-example]$ git status
+
+1034  git commit -m 'changing ingredients to add onions'
+ 1035  git status
+ 1036  git add ingredients.md
+ 1037  git status
+ 1038  git commit -m 'changing ingredients to add onions'
+ 1039  git log
+ 1040  ls
+ 1041  cat instructions.md 
+ 1042  git remote -v
+ 1043  vi instructions.md 
+ 1044  git aadd instructions.md
+ 1045  git add instructions.md
+ 1046  gis status
+ 1047  git status
+ 1048  git commit
+ 1049  git status
+ 1050  git log
+ 1051  git commit --comment
+ 1052  git commit --amend
+ 1053  history
+
